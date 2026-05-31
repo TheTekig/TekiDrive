@@ -63,26 +63,14 @@ Feito com **ASP.NET Core 8**, banco **SQLite** e um frontend moderno em HTML/CSS
 <table>
   <tr>
     <td align="center">
-      <img src="assets/screenshot-login.png" width="420px" alt="Tela de Login" />
+      <img src="Github - Assets/screenshot-login.png" width="420px" alt="Tela de Login" />
       <br/>
       <sub><b>Tela de Login</b></sub>
     </td>
     <td align="center">
-      <img src="assets/screenshot-dashboard.png" width="420px" alt="Dashboard" />
+      <img src="Github - Assets/screenshot-dashboard.png" width="420px" alt="Dashboard" />
       <br/>
       <sub><b>Dashboard</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/screenshot-upload.png" width="420px" alt="Upload de arquivos" />
-      <br/>
-      <sub><b>Upload de arquivos</b></sub>
-    </td>
-    <td align="center">
-      <img src="assets/screenshot-share.png" width="420px" alt="Link de compartilhamento" />
-      <br/>
-      <sub><b>Link de compartilhamento</b></sub>
     </td>
   </tr>
 </table>
