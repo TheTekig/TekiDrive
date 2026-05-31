@@ -25,10 +25,6 @@
 
 <br/>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/TekigCloud?color=6c63ff&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/TekigCloud?color=6c63ff&style=flat-square)
-![License](https://img.shields.io/github/license/SEU_USUARIO/TekigCloud?color=6c63ff&style=flat-square)
-
 </div>
 
 ---
