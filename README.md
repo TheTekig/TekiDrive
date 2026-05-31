@@ -5,7 +5,7 @@
 <!--   Substitua a linha abaixo pela sua imagem de banner       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="assets/banner.png" alt="TekigCloud Banner" width="100%" />
+<img src="Guthub - Assets/banner.png" alt="TekigCloud Banner" width="100%" />
 
 <br/>
 <br/>
