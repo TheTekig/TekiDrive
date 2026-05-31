@@ -1,0 +1,6 @@
+@MinhaCloud_HostAddress = http://localhost:5192
+
+GET {{MinhaCloud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
